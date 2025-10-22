@@ -19,7 +19,6 @@ public class PackageDimensions {
             double volume = length * width * height;
             System.out.println("Package Volume: " + volume + " cubic cm");
         }
-
         sc.close();
     }
 }
